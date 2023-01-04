@@ -18,9 +18,16 @@ En comparación con la media mundial, Argentina está a la vanguardia del desarr
 
 En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar acceso a internet, pero también es importante considerar el resto de los servicios.
 
-Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide visualizar en un dashboard el siguiente KPI y establecer 3 KPIs adicionales producto de su análisis:
+Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide visualizar en un dashboard los siguientes KPI´s producto de su análisis:
 
-Evaluar el aumento o disminución de la variación porcentual trimestral del servicio de internet, cada 100 hogares por provincia. (dataset)
+<ol>
+    </li>
+      <li><strong>KPI: </strong>Evaluar el aumento o disminución de la variación porcentual trimestral del servicio de internet, cada 100 hogares por provincia.</li>
+      <li><strong>KPI: </strong>Velocidad de bajada (Mbps) promedio del internet a traves de los años.</li>
+      <li><strong>KPI: </strong>Cantidad de reclamos mensual por operador.</li>
+      <li><strong>KPI: </strong>Cantidad de reclamos mensual por tipo de servicio.</li>
+    </li>
+</ol>
 
 ## **Tecnologías usadas**
 <!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-analytics- -->
@@ -35,8 +42,8 @@ Evaluar el aumento o disminución de la variación porcentual trimestral del ser
     <li><strong>seaborn</strong>: Es una librería de visualización de datos.</li>
 </ul>
 
-## _Resumen de la solución del proyecto:_
-<ul>
+## **Resumen de la solución del proyecto:**
+<ol>
   <li>
     <strong>Se usará la página oficial de <a href="https://datosabiertos.enacom.gob.ar/home">Datos abiertos ENACOM</a> para obtener la información necesaria para en               análisis.</strong>
   </li>
@@ -54,4 +61,4 @@ Evaluar el aumento o disminución de la variación porcentual trimestral del ser
     <strong>Realizar Dashboard interactivo en Power BI</strong>
     <a href="https://www.novypro.com/project/an%C3%A1lisis-de-datos-abiertos-enacom">(link al Dashboard Interactivo).</a>
   </li>
-</ul>
+</ol>
