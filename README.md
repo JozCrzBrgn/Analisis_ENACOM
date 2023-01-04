@@ -39,9 +39,9 @@ Evaluar el aumento o disminución de la variación porcentual trimestral del ser
 ## _Resumen de la solución del proyecto:_
 <ul>
   <li>
-    <strong>Se tomará la página oficial del ENACOM para obtener la información necesaria para en análisis </strong>
-    <a href="https://datosabiertos.enacom.gob.ar/home">(Datos abiertos ENACOM).</a>
+    <strong>Se tomará la página oficial de <a href="https://datosabiertos.enacom.gob.ar/home">Datos abiertos ENACOM</a> para obtener la información necesaria para en               análisis.</strong>
   </li>
+  <li><strong>Obtener la API Key de la <a href="https://datosabiertos.enacom.gob.ar/developers/">Página de Desarrolladores del ENACOM.</a></strong></li>
   <li><strong>Extraer la información usando la API que brinda la página del ENACOM y transformala en DataFrames.</strong></li>
   <li><strong>Verificar que los DataFrame no tengan valores nulos y en caso de tenerlos realizar alguna acción.</strong></li>
   <li><strong>Visualizar que tipo de variable estarémos manejando y corregirla en caso de ser necesario.</strong></li>
@@ -52,7 +52,7 @@ Evaluar el aumento o disminución de la variación porcentual trimestral del ser
     <a href="https://github.com/JozCrzBrgn/Analisis_ENACOM/blob/main/EDA.ipynb">link al Jupyter Notebook.</a>
   </li>
   <li>
-    <strong>Realizar Dashboard en Power BI</strong>
+    <strong>Realizar Dashboard interactivo en Power BI</strong>
     <a href="">(link al Dashboard).</a>
   </li>
 </ul>
