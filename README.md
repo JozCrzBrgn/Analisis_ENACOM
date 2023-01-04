@@ -48,8 +48,8 @@ Evaluar el aumento o disminución de la variación porcentual trimestral del ser
   <li><strong>Análisis rápido de las categorías usando un histograma.</strong></li>
   <li><strong>Resumen global de estadísticos.</strong></li>
   <li>
-    <strong>Guardar los DataFrame en formato *.csv para su posterior análisis en Power BI.</strong>
-    <a href="">(link al Jupyter Notebook).</a>
+    <strong>Guardar los DataFrame en formato *.csv para su posterior análisis en Power BI. Se muestra el proceso detallado en el siguiente </strong>
+    <a href="https://github.com/JozCrzBrgn/Analisis_ENACOM/blob/main/EDA.ipynb">link al Jupyter Notebook.</a>
   </li>
   <li>
     <strong>Realizar Dashboard en Power BI</strong>
