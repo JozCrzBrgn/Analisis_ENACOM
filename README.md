@@ -26,17 +26,13 @@ Evaluar el aumento o disminución de la variación porcentual trimestral del ser
 <!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-analytics- -->
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![]()
-![]()
-![]()
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 ## **Librerías:**
 <ul>
     <li><strong>pandas</strong>: Es una herramienta de análisis y manipulación de datos de código abierto rápida, potente, flexible y fácil de usar, construido sobre el lenguaje de programación Python.</li>
-    <li><strong>pymysql</strong>: Es un paquete para la interacción con bases de datos MySQL escrito completamente en Python.</li>
-    <li><strong>sqlalchemy</strong>: Es un ORM (Asignador Relacional de Objetos) que brinda a los desarrolladores de aplicaciones todo el poder y la flexibilidad de SQL.</li>
-    <li><strong>fastAPI</strong>: Es un web framework moderno y rápido (de alto rendimiento) para construir APIs con Python 3.6+ basado en las anotaciones de tipos estándar de Python..</li>
-    <li><strong>uvicorn</strong>: Una librería que funciona como servidor, permite que cualquier computadora se convierta en servidor..</li>
+    <li><strong>seaborn</strong>: Es una librería de visualización de datos.</li>
 </ul>
 
 
@@ -44,27 +40,19 @@ Evaluar el aumento o disminución de la variación porcentual trimestral del ser
 <ul>
   <li>
     <strong>Se tomará la página oficial del ENACOM para obtener la información necesaria para en análisis </strong>
-    <a href="https://github.com/JozCrzBrgn/ProyectoIndividualHospital/blob/main/ML_Hospitales.ipynb">(ENACOM).</a>
+    <a href="https://datosabiertos.enacom.gob.ar/home">(Datos abiertos ENACOM).</a>
   </li>
-  <li><strong>Extraer la información usando la API que brinda la página del ENACOM para la realización los diferentes datasets y transformalos en DataFrames.</strong></li>
-  <li><strong>Limpieza, análisis y transformación de los DataFrames.</strong></li>
-  <li><strong></strong></li>
-  <li><strong></strong></li>
-  <li><strong></strong></li>
-  <li><strong></strong></li>
-  <li><strong></strong></li>
+  <li><strong>Extraer la información usando la API que brinda la página del ENACOM y transformala en DataFrames.</strong></li>
+  <li><strong>Verificar que los DataFrame no tengan valores nulos y en caso de tenerlos realizar alguna acción.</strong></li>
+  <li><strong>Visualizar que tipo de variable estarémos manejando y corregirla en caso de ser necesario.</strong></li>
+  <li><strong>Análisis rápido de las categorías usando un histograma.</strong></li>
+  <li><strong>Resumen global de estadísticos.</strong></li>
+  <li>
+    <strong>Guardar los DataFrame en formato *.csv para su posterior análisis en Power BI.</strong>
+    <a href="">(link al Jupyter Notebook).</a>
+  </li>
+  <li>
+    <strong>Realizar Dashboard en Power BI</strong>
+    <a href="">(link al Dashboard).</a>
+  </li>
 </ul>
-
-El proceso detallado de lo realizado en cada dataset se describe en el Jupyter Notebook que se muestran a continuación:
-
-<h3>
-  <i>Jupyter Notebook con el procedimiento detallado</i>
-  <h4>
-    <ul>
-      <li>
-        <strong>Proyecto 2</strong>
-        <a href="https://github.com/JozCrzBrgn/ProyectoIndividualHospital/blob/main/ML_Hospitales.ipynb">Jupyter Notebook</a>
-      </li>
-    </ul>
-   <h4>
-</h3>
