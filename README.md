@@ -52,6 +52,6 @@ Evaluar el aumento o disminución de la variación porcentual trimestral del ser
   </li>
   <li>
     <strong>Realizar Dashboard interactivo en Power BI</strong>
-    <a href="">(link al Dashboard).</a>
+    <a href="https://www.novypro.com/project/an%C3%A1lisis-de-datos-abiertos-enacom">(link al Dashboard Interactivo).</a>
   </li>
 </ul>
