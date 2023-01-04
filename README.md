@@ -35,11 +35,10 @@ Evaluar el aumento o disminución de la variación porcentual trimestral del ser
     <li><strong>seaborn</strong>: Es una librería de visualización de datos.</li>
 </ul>
 
-
 ## _Resumen de la solución del proyecto:_
 <ul>
   <li>
-    <strong>Se tomará la página oficial de <a href="https://datosabiertos.enacom.gob.ar/home">Datos abiertos ENACOM</a> para obtener la información necesaria para en               análisis.</strong>
+    <strong>Se usará la página oficial de <a href="https://datosabiertos.enacom.gob.ar/home">Datos abiertos ENACOM</a> para obtener la información necesaria para en               análisis.</strong>
   </li>
   <li><strong>Obtener la API Key de la <a href="https://datosabiertos.enacom.gob.ar/developers/">Página de Desarrolladores del ENACOM.</a></strong></li>
   <li><strong>Extraer la información usando la API que brinda la página del ENACOM y transformala en DataFrames.</strong></li>
